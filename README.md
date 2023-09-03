@@ -1,5 +1,8 @@
 # CartPole_model
 
+![image](https://github.com/Krishna9027/CartPole_model/assets/121724550/f61c7e72-0011-4dd3-bdf8-16759d6934bc)
+
+
 # INTRODUCTION_
 The CartPole problem is a classic reinforcement learning task where the goal is to balance a pole on a moving cart for as long as possible. In this project, we use the Actor-Critic method to train an agent that learns to control the cart and pole to achieve this objective.
 
